@@ -1,4 +1,3 @@
 # ColumbiaLandmarks
-a Github page for predicting three Columbia landmarks: the lion statue, the Uris hall abstract thingy, and one of the fountains near low steps
-
+Github page for predicting Columbia landmarks from images using a Convolutional Neural Network (CNN). A project for my Applied Deep Learning (COMS W4995) class at Columbia. 
 https://anikhachatryan.github.io/ColumbiaLandmarks/.
